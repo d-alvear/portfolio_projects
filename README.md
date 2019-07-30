@@ -1,4 +1,5 @@
-# Deandra Alvear's Portfolio
+# Deandra Alvear's Data Science Portfolio
+This portfolio is a compilation of notebooks and is organized by type of analysis performed.
 ## Data Exploration and Analyses
 ### Profitable App Profiles for the App Store and Google Play Markets<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)    [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)<br />
