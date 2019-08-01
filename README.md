@@ -6,6 +6,10 @@ This portfolio is a compilation of notebooks and is organized by type of analysi
 This is a project I completed through the Data Science Specialization Capstone Courser through Coursera. My goal was to answer, based on neighborhood venue types, whether Manhattan or San Francisco offers more "bang for your buck." I compared rent prices and venues per neighborhood for both cities. I used k-means clustering analysis and leveraged data using the Foursquare API.
 
 ## Data Exploration and Analyses
+### Exploring Ebay Car Sale Data<br />
+[Github](https://github.com/d-alvear/portfolio_projects/blob/master/exploring_ebay_car_sale_data.ipynb) |
+[nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/exploring_ebay_car_sale_data.ipynb)<br />
+This project uses Pandas and Numpy to explore and clean Ebay car sale data. After cleaning the data I compare mean price and mileage of the top five manufacturers that make up most of the Ebay car listings.
 ### Profitable App Profiles for the App Store and Google Play Markets<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)   | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)<br />
 This is a project completed through the DataQuest.io learning platform. This project is meant to combine Python fundamentals to inform a business decision. I cleaned, filtered, and analyzed data to find which types of free apps attract the most users.
