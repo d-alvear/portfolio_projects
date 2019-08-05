@@ -17,7 +17,8 @@ This is a project completed through the DataQuest.io learning platform. This pro
 ## Data Visualization
 ### Visualizing Earnings Based on College Majors<br />
 [Github]() | [nbviewer]() <br />
-In this project I visualize the job outcomes of students who graduated from college between 2010 and 2012. 
+In this project I visualize the job outcomes of students who graduated from college between 2010 and 2012. Using visualizations, I explore questions from the dataset such as:
+Do students in more popular majors make more money? How many majors are predominantly male? Predominantly female? Which category of majors have the most students?
 ### Visualizing Long-term Precipitation Data<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/precip_cleaned_vis.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/precip_cleaned_vis.ipynb)<br />
 In this analysis I visualize precipitation data from Watsonville, CA from the years 1908-2013. I plot the whole record as a time series to gain big picture insights. Then, I plot monthly averages to gain insights about the rainy season during the year. I use pandas, numpy, and matplotlib.
