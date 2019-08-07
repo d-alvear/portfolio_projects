@@ -16,7 +16,7 @@ This is a project completed through the DataQuest.io learning platform. This pro
 
 ## Data Visualization
 ### Visualizing Earnings Based on College Majors<br />
-[Github]() | [nbviewer]() <br />
+[Github](https://github.com/d-alvear/visualizing_earnings_from_major/blob/master/visualizing_earnings_from_major_FINAL.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/visualizing_earnings_from_major/blob/master/visualizing_earnings_from_major_FINAL.ipynb) <br />
 In this project I visualize the job outcomes of students who graduated from college between 2010 and 2012. Using visualizations, I explore questions from the dataset such as:
 Do students in more popular majors make more money? How many majors are predominantly male? Predominantly female? Which category of majors have the most students?
 ### Visualizing Long-term Precipitation Data<br />
