@@ -14,7 +14,7 @@ This project uses Pandas and Numpy to explore and clean Ebay car sale data. Afte
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)   | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)<br />
 This is a project completed through the DataQuest.io learning platform. This project is meant to combine Python fundamentals to inform a business decision. I cleaned, filtered, and analyzed data to find which types of free apps attract the most users.
 ### Analyzing CIA Factbook Data Using SQLite and Python<br />
-[Github]() | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb)<br />
+[Github](https://github.com/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb)<br />
 In this project, I work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like population, population growth, and total land and water area. I use the Python SQLite workflow to explore, analyze, and visualize data from this database. I'll use pandas and matplotlib to display my results.
 
 ## Data Visualization
