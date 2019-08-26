@@ -13,6 +13,9 @@ This project uses Pandas and Numpy to explore and clean Ebay car sale data. Afte
 ### Profitable App Profiles for the App Store and Google Play Markets<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)   | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/Project_Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets.ipynb)<br />
 This is a project completed through the DataQuest.io learning platform. This project is meant to combine Python fundamentals to inform a business decision. I cleaned, filtered, and analyzed data to find which types of free apps attract the most users.
+### Analyzing CIA Factbook Data Using SQLite and Python<br />
+[Github]() | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb)<br />
+In this project, I work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like population, population growth, and total land and water area. I use the Python SQLite workflow to explore, analyze, and visualize data from this database. I'll use pandas and matplotlib to display my results.
 
 ## Data Visualization
 ### Visualizing Earnings Based on College Majors<br />
@@ -22,3 +25,4 @@ Do students in more popular majors make more money? How many majors are predomin
 ### Visualizing Long-term Precipitation Data<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/visualizing_long_term_precipitation_data.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/visualizing_long_term_precipitation_data.ipynb)<br />
 In this analysis I visualize precipitation data from Watsonville, CA from the years 1908-2013. I plot the whole record as a time series to gain big picture insights. Then, I plot monthly averages to gain insights about the rainy season during the year. I use pandas, numpy, and matplotlib.
+
