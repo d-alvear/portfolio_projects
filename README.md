@@ -16,6 +16,11 @@ This is a project completed through the DataQuest.io learning platform. This pro
 ### Analyzing CIA Factbook Data Using SQLite and Python<br />
 [Github](https://github.com/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/portfolio_projects/blob/master/SQL%20factbook%20data.ipynb)<br />
 In this project, I work with data from the CIA World Factbook, a compendium of statistics about all of the countries on Earth. The Factbook contains demographic information like population, population growth, and total land and water area. I use the Python SQLite workflow to explore, analyze, and visualize data from this database. I'll use pandas and matplotlib to display my results.
+## Cleaning and Analyzing Employee Exit Surveys
+[Github](https://github.com/d-alvear/Analyzing-Employee-Exit-Surveys/blob/master/Part%202/V6_analyzing_employee_exit_surveys.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/Analyzing-Employee-Exit-Surveys/blob/master/Part%202/V6_analyzing_employee_exit_surveys.ipynb)<br />
+In this project, I take on the role of a data analyst. I work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. I clean and analyze the data to answer the following questions to stakeholders:
+* Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
+* Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
 
 ## Data Visualization
 ### Visualizing Earnings Based on College Majors<br />
