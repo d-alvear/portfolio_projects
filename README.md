@@ -1,5 +1,6 @@
 # Deandra Alvear's Data Science Portfolio
 This portfolio is a compilation of notebooks and is organized by type of analysis performed.
+
 ## Clustering
 ### Battle of the Neighborhoods <br />
 [Github](https://gist.github.com/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9) | [nbviewer](https://nbviewer.jupyter.org/gist/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9) <br />
@@ -21,6 +22,10 @@ In this project, I work with data from the CIA World Factbook, a compendium of s
 In this project, I take on the role of a data analyst. I work with exit surveys from employees of the Department of Education, Training and Employment (DETE) and the Technical and Further Education (TAFE) institute in Queensland, Australia. I clean and analyze the data to answer the following questions to stakeholders:
 * Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 * Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+### Answering Business Questions Using SQL<br />
+[Github](https://github.com/d-alvear/SQL-Business-Analysis-Project/blob/master/V7_sql_business_analysis_project.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/d-alvear/SQL-Business-Analysis-Project/blob/master/V7_sql_business_analysis_project.ipynb)<br />
+In this project I answer business questions about trends in record store purchases and country wide album sales. I use SQL to exract relevant data and visualize my findings using matplotlib and pandas.
 
 ## Data Visualization
 ### Visualizing Earnings Based on College Majors<br />
