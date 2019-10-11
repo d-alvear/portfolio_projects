@@ -4,7 +4,7 @@ This portfolio is a compilation of notebooks and is organized by type of analysi
 ## Clustering
 ### Battle of the Neighborhoods <br />
 [Github](https://gist.github.com/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9) | [nbviewer](https://nbviewer.jupyter.org/gist/d-alvear/6b023d5d5bf0c458c66f4a26379f99a9) <br />
-This is a project I completed through the Data Science Specialization Capstone Courser through Coursera. My goal was to answer, based on neighborhood venue types, whether Manhattan or San Francisco offers more "bang for your buck." I compared rent prices and venues per neighborhood for both cities. I used k-means clustering analysis and leveraged data using the Foursquare API.
+This is a project I completed through the Data Science Specialization Capstone Course through Coursera. My goal was to answer, based on neighborhood venue types, whether Manhattan or San Francisco offers more "bang for your buck." I compared rent prices and venues per neighborhood for both cities. I used k-means clustering analysis and leveraged data using the Foursquare API.
 
 ## Data Exploration and Analyses
 ### Exploring Ebay Car Sale Data<br />
